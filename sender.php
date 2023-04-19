@@ -5,7 +5,7 @@
     $email = $_POST['email'];
     $text = $_POST['text'];
 
-	$to = "new.garden.goods@gmail.com"; 
+	$to = "satanyugav@gmail.com"; 
 	$date = date ("d.m.Y"); 
 	$time = date ("h:i");
 	$from = $email;
@@ -22,4 +22,4 @@
 
 ?>
 
-<p>Привет, заказ пришел</p>
+<p>Привет, форма отправлена</p>
